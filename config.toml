@@ -1,5 +1,5 @@
 baseURL = 'https://tsbraun.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
-theme = "ananke"
+title = 'ToolboxT'
+theme = "LoveIt"
+theme = "LoveIt"
